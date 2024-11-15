@@ -1,0 +1,11 @@
+import java .util.*;
+
+public class pen{
+ String name='p1';
+public static void main(String[] args){
+
+pen P=new pen();
+
+system.out,println(P.name);
+}
+}
