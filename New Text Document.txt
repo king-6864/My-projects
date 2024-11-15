@@ -1,1 +1,1 @@
-gcg
+select * from t_employee
