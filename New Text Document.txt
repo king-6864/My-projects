@@ -1,1 +1,2 @@
 select * from t_employee
+slect * fronhbu
