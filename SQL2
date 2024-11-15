@@ -1,0 +1,2 @@
+select * from t_employee 
+where emp_name='muni';
